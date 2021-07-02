@@ -1,0 +1,6 @@
+APP_KEY: 'YH0TYc2Uui2xxxxxxxxxxx' 
+APP_SECRET: 'IzO3XNU8aDhHbyM1oxxxxxxx' 
+OAUTH_TOKEN:  '245734683-tBHii4VdXJxxxxxxxxxxx' 
+OAUTH_TOKEN_SECRET:  'BuGtydrhvDGjcxxxxxxxxxxx' 
+output_dir: data
+output_file: saved_data.json
